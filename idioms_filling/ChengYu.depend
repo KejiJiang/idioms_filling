@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1652616438 source:d:\test\chengyu\main.c
+	"ChengYu.h"
+
+1652602870 d:\test\chengyu\chengyu.h
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1653204556 source:d:\chengyu\main.c
+	"ChengYu.h"
+
+1653195426 d:\chengyu\chengyu.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1652792249 source:c:\users\一只橙脐\desktop\新建文件夹 (2)\chengyu\main.c
+	"ChengYu.h"
+
+1652792293 c:\users\一只橙脐\desktop\新建文件夹 (2)\chengyu\chengyu.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1653154069 source:c:\users\一只橙脐\desktop\chengyu\chengyu\main.c
+	"ChengYu.h"
+
+1653032227 c:\users\一只橙脐\desktop\chengyu\chengyu\chengyu.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1653194990 source:c:\users\一只橙脐\desktop\新建文件夹\chengyu\main.c
+	"ChengYu.h"
+
+1653195053 c:\users\一只橙脐\desktop\新建文件夹\chengyu\chengyu.h
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
